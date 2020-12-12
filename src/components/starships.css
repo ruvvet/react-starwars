@@ -1,0 +1,21 @@
+.starships-ul{
+
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+
+
+    background-color: #ffffff;
+
+    color: black;
+  }
+
+  .starship-li{
+    color: black;
+  height: 10%;
+  width: 10%;
+  background: rgb(170, 30, 30);
+  margin: 2%;
+  border-radius: 10px;
+  padding: 3%;
+  }
